@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.chickenrun.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\sdg96\\Desktop\\Chicken Run\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Chicken Run [Testing]"
+        }
+      }
+    }
+  ]
+}

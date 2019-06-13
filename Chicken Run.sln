@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{107E6BBD-BC79-88BE-797C-836743EDFAE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SteamVR", "SteamVR.csproj", "{EFC9E8AE-4AAA-1D23-F6E7-B0088A10DC22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-firstpass", "Assembly-CSharp-firstpass.csproj", "{CA6EC8FB-9971-DA58-3D54-A08C896E6EBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SteamVR_Actions", "SteamVR_Actions.csproj", "{21E33D69-D162-2B21-DDEA-3A77B43C98C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor-firstpass", "Assembly-CSharp-Editor-firstpass.csproj", "{8CB695D3-1246-4FE7-7A50-4B7BA0D33AFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SteamVR_Editor", "SteamVR_Editor.csproj", "{18557565-2E55-46D7-599C-03BB7DB72C2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SteamVR_Input_Editor", "SteamVR_Input_Editor.csproj", "{D2D923A5-9034-2A76-3694-6261C3D174A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SteamVR_Windows_EditorHelper", "SteamVR_Windows_EditorHelper.csproj", "{30DFC21D-B824-1E9C-F8AD-502A349E9210}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{107E6BBD-BC79-88BE-797C-836743EDFAE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{107E6BBD-BC79-88BE-797C-836743EDFAE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{107E6BBD-BC79-88BE-797C-836743EDFAE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{107E6BBD-BC79-88BE-797C-836743EDFAE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFC9E8AE-4AAA-1D23-F6E7-B0088A10DC22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFC9E8AE-4AAA-1D23-F6E7-B0088A10DC22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFC9E8AE-4AAA-1D23-F6E7-B0088A10DC22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFC9E8AE-4AAA-1D23-F6E7-B0088A10DC22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA6EC8FB-9971-DA58-3D54-A08C896E6EBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA6EC8FB-9971-DA58-3D54-A08C896E6EBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA6EC8FB-9971-DA58-3D54-A08C896E6EBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA6EC8FB-9971-DA58-3D54-A08C896E6EBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21E33D69-D162-2B21-DDEA-3A77B43C98C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21E33D69-D162-2B21-DDEA-3A77B43C98C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21E33D69-D162-2B21-DDEA-3A77B43C98C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21E33D69-D162-2B21-DDEA-3A77B43C98C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CB695D3-1246-4FE7-7A50-4B7BA0D33AFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CB695D3-1246-4FE7-7A50-4B7BA0D33AFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CB695D3-1246-4FE7-7A50-4B7BA0D33AFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CB695D3-1246-4FE7-7A50-4B7BA0D33AFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18557565-2E55-46D7-599C-03BB7DB72C2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18557565-2E55-46D7-599C-03BB7DB72C2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18557565-2E55-46D7-599C-03BB7DB72C2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18557565-2E55-46D7-599C-03BB7DB72C2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2D923A5-9034-2A76-3694-6261C3D174A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2D923A5-9034-2A76-3694-6261C3D174A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2D923A5-9034-2A76-3694-6261C3D174A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2D923A5-9034-2A76-3694-6261C3D174A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30DFC21D-B824-1E9C-F8AD-502A349E9210}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30DFC21D-B824-1E9C-F8AD-502A349E9210}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30DFC21D-B824-1E9C-F8AD-502A349E9210}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30DFC21D-B824-1E9C-F8AD-502A349E9210}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
